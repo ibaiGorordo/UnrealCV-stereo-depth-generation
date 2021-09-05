@@ -6,7 +6,7 @@ Python scripts for generating synthetic stereo depth data using the UnrealCV lib
 # How to use
 * Download the binary scene from the model zoo: http://docs.unrealcv.org/en/master/reference/model_zoo.html
 * Install pyunrealcv: `pip install unrealcv`
-* Important:bangbang: Modify the **unrealcv.ini** file in the `WindowsNoEditor/RealisticRendering/Binaries/Win64` path inside the scene folder like this:
+* Important:bangbang: Modify the **unrealcv.ini** file in the `WindowsNoEditor/RealisticRendering/Binaries/Win64` path (depending on the OS system) inside the scene folder like this:
 
 `EnableRightEye=True`
 
